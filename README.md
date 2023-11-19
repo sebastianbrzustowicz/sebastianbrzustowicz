@@ -2,17 +2,28 @@
   <img height="150" src="https://img3.exportersindia.com/product_images/bc-full/2020/6/7409517/web-designing-course-1592826172-5491378.gif"  />
 </div>
 
+### 🌍 Connect With Me
+
 ###
 
+[<img align="left" alt="Sebastian Brzustowicz | Website" width="28px" src="https://cdn-icons-png.flaticon.com/512/3178/3178285.png" />][website]
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/s-brzustowicz/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
-<a href="https://sebastianbrzustowicz.github.io" target="_blank" align="left">
-<p> Link to my portfolio </p>
-</a>
+[<img align="left" alt="Sebastian Brzustowicz | Twitter" width="28px" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" />][youtube]
+
+[<img align="left" alt="Sebastian Brzustowicz | LinkedIn" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Flinkedin.png?alt=media" />][linkedin]
+
+[<img align="left" alt="Sebastian Brzustowicz | LinkedIn" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Ffacebook.png?alt=media" />][facebook]
+
+[<img align="left" alt="Sebastian Brzustowicz | LinkedIn" width="28px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />][email]
+
+[website]: https://sebastianbrzustowicz.github.io/
+[youtube]: https://www.youtube.com/channel/UCBELaZveveEfNyvaow8V9wQ
+[linkedin]: https://www.linkedin.com/in/s-brzustowicz/
+[github]: https://github.com/sebastianbrzustowicz
+[facebook]: https://www.facebook.com/sebastian.brzustowicz/
+[email]: mailto:Se.Brzustowicz@gmail.com
+
+<br>
 
 ###
 
