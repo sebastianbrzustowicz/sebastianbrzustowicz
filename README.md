@@ -4,9 +4,6 @@
 
 ###
 
-<p align="left">👋 My name is Sebastian Brzustowicz</p>
-
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/s-brzustowicz/" target="_blank">
