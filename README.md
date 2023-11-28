@@ -10,7 +10,7 @@
 
 [<img align="left" alt="Sebastian Brzustowicz | Twitter" width="28px" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" />][youtube]
 
-[<img align="left" alt="Sebastian Brzustowicz | LinkedIn" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Flinkedin.png?alt=media" />][linkedin]
+[<img align="left" alt="Sebastian Brzustowicz | LinkedIn" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" />][linkedin]
 
 [<img align="left" alt="Sebastian Brzustowicz | LinkedIn" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Ffacebook.png?alt=media" />][facebook]
 
