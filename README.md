@@ -16,7 +16,7 @@
 
 [<img align="left" alt="Sebastian Brzustowicz | LinkedIn" width="28px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />][email]
 
-[website]: https://sebastianbrzustowicz.github.io/
+[website]: http://sebastianbrzustowicz.pythonanywhere.com/about_me
 [youtube]: https://www.youtube.com/channel/UCBELaZveveEfNyvaow8V9wQ
 [linkedin]: https://www.linkedin.com/in/s-brzustowicz/
 [github]: https://github.com/sebastianbrzustowicz
