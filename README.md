@@ -8,13 +8,15 @@
 
 [<img align="left" alt="Sebastian Brzustowicz | Website" width="28px" src="https://cdn-icons-png.flaticon.com/512/3178/3178285.png" />][website]
 
-[<img align="left" alt="Sebastian Brzustowicz | Twitter" width="28px" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" />][youtube]
+[<img align="left" alt="Sebastian Brzustowicz | Youtube" width="28px" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" />][youtube]
 
 [<img align="left" alt="Sebastian Brzustowicz | LinkedIn" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" />][linkedin]
 
-[<img align="left" alt="Sebastian Brzustowicz | LinkedIn" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Ffacebook.png?alt=media" />][facebook]
+[<img align="left" alt="Sebastian Brzustowicz | Facebook" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Ffacebook.png?alt=media" />][facebook]
 
-[<img align="left" alt="Sebastian Brzustowicz | LinkedIn" width="28px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />][email]
+[<img align="left" alt="Sebastian Brzustowicz | Email" width="28px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />][email]
+
+[<img align="left" alt="Sebastian Brzustowicz | BuyCoffee" width="28px" src="https://github.com/sebastianbrzustowicz/sebastianbrzustowicz/assets/66909222/ec596b2f-dcfb-4d61-ad7b-16b49f0e0755" />][buycoffee]
 
 [website]: http://sebastianbrzustowicz.pythonanywhere.com/about_me
 [youtube]: https://www.youtube.com/channel/UCBELaZveveEfNyvaow8V9wQ
@@ -22,6 +24,7 @@
 [github]: https://github.com/sebastianbrzustowicz
 [facebook]: https://www.facebook.com/sebastian.brzustowicz/
 [email]: mailto:Se.Brzustowicz@gmail.com
+[buycoffee]: https://buycoffee.to/sebastianbrzustowicz
 
 <br>
 
