@@ -2,6 +2,26 @@
   <img height="150" src="https://img3.exportersindia.com/product_images/bc-full/2020/6/7409517/web-designing-course-1592826172-5491378.gif"  />
 </div>
 
+### 🍀 Donations
+
+<a href="https://www.blockchain.com/explorer/addresses/btc/bc1qhw6fz2a9scd0nzwyj26ctmz2s88mzwt8fw2qnf">
+    <img align="left" alt="Sebastian Brzustowicz | Bitcoin" width="28px" src="https://static-00.iconduck.com/assets.00/bitcoin-cryptocurrency-icon-2048x2048-o8903aot.png" />
+</a>  
+
+<a href="https://www.blockchain.com/explorer/addresses/eth/0xf16ED0f84B40289DcB9e61A7C1D41bA1cb7C3770">
+    <img align="left" alt="Sebastian Brzustowicz | Ethereum" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/1200px-Ethereum-icon-purple.svg.png" />
+</a>  
+<!--
+<a href="">
+    <img align="left" alt="Sebastian Brzustowicz | XRP" width="28px" src="https://thegivingblock.com/wp-content/uploads/2023/09/XRP-crypto-coin-icon-The-Giving-Block.png" />
+</a>-->
+
+[<img align="left" alt="Sebastian Brzustowicz | BuyCoffee" width="28px" src="https://github.com/sebastianbrzustowicz/sebastianbrzustowicz/assets/66909222/ec596b2f-dcfb-4d61-ad7b-16b49f0e0755" />][buycoffee]
+
+<br>
+
+###            
+
 ### 🌍 Connect With Me
 
 ###
@@ -15,8 +35,6 @@
 [<img align="left" alt="Sebastian Brzustowicz | Facebook" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Ffacebook.png?alt=media" />][facebook]
 
 [<img align="left" alt="Sebastian Brzustowicz | Email" width="28px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />][email]
-
-[<img align="left" alt="Sebastian Brzustowicz | BuyCoffee" width="28px" src="https://github.com/sebastianbrzustowicz/sebastianbrzustowicz/assets/66909222/ec596b2f-dcfb-4d61-ad7b-16b49f0e0755" />][buycoffee]
 
 [website]: http://sebastianbrzustowicz.pythonanywhere.com/about_me
 [youtube]: https://www.youtube.com/channel/UCBELaZveveEfNyvaow8V9wQ
