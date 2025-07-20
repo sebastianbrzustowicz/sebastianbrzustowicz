@@ -5,7 +5,7 @@
 ### 🍀 Donations
 
 <a href="https://www.blockchain.com/explorer/addresses/btc/bc1qhw6fz2a9scd0nzwyj26ctmz2s88mzwt8fw2qnf">
-    <img align="left" alt="Sebastian Brzustowicz | Bitcoin" width="28px" src="https://static-00.iconduck.com/assets.00/bitcoin-cryptocurrency-icon-2048x2048-o8903aot.png" />
+    <img align="left" alt="Sebastian Brzustowicz | Bitcoin" width="28px" src="https://cdn-icons-png.flaticon.com/512/5968/5968260.png" />
 </a>  
 
 <a href="https://www.blockchain.com/explorer/addresses/eth/0xf16ED0f84B40289DcB9e61A7C1D41bA1cb7C3770">
