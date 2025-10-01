@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://img3.exportersindia.com/product_images/bc-full/2020/6/7409517/web-designing-course-1592826172-5491378.gif"  />
+  <img height="200" src="https://www.giantbomb.com/a/uploads/scale_medium/3/34651/3407473-90scomputer.gif"  />
 </div>
 
 ### 🍀 Donations
