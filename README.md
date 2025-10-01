@@ -28,7 +28,7 @@
 
 <!-- [<img align="left" alt="Sebastian Brzustowicz | Youtube" width="28px" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" />][youtube] -->
 
-[<img align="left" alt="Sebastian Brzustowicz | Email" width="28px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />][email]
+[<img align="left" alt="Sebastian Brzustowicz | Email" width="28px" src="https://cdn-icons-png.flaticon.com/512/3176/3176392.png" />][email]
 
 [<img align="left" alt="Sebastian Brzustowicz | LinkedIn" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" />][linkedin]
 
