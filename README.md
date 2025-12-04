@@ -77,12 +77,12 @@
 
 <div align="center">
   <!--<img src="https://streak-stats.demolab.com?user=sebastianbrzustowicz&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />-->
-  <a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=sebastianbrzustowicz&theme=dark&date_format=j%20M%5B%20Y%5D&card_width=654" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=sebastianbrzustowicz&theme=dark&date_format=j%20M%5B%20Y%5D&card_width=654" alt="" /></a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sebastianbrzustowicz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sebastianbrzustowicz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=sebastianbrzustowicz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt=""  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sebastianbrzustowicz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&order=2" height="150" alt=""  />
   <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianbrzustowicz&layout=compact&theme=dark" height="150" alt="languages graph"  />-->
 </div>
 
